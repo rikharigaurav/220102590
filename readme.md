@@ -16,6 +16,9 @@ It also includes **health monitoring** and **centralized logging**.
 
 ---
 
+<img width="920" height="424" alt="image" src="https://github.com/user-attachments/assets/1b44da12-5be4-4375-b25a-1fd718b57e8f" />
+
+
 ## 🛠 Tech Stack
 
 ### **Frontend**
